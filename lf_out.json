@@ -11,7 +11,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu1.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu1.jpg"
         ]
     },
     {
@@ -26,7 +26,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu2.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu2.jpg"
         ]
     },
     {
@@ -41,7 +41,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu3.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu3.jpg"
         ]
     },
     {
@@ -56,7 +56,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu4.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu4.jpg"
         ]
     },
     {
@@ -71,7 +71,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu5.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu5.jpg"
         ]
     },
     {
@@ -86,7 +86,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu6.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu6.jpg"
         ]
     },
     {
@@ -101,7 +101,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu7.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu7.jpg"
         ]
     },
     {
@@ -116,7 +116,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu8.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu8.jpg"
         ]
     },
     {
@@ -131,7 +131,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu9.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu9.jpg"
         ]
     },
     {
@@ -146,7 +146,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu10.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu10.jpg"
         ]
     },
     {
@@ -161,7 +161,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu11.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu11.jpg"
         ]
     },
     {
@@ -176,7 +176,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu12.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu12.jpg"
         ]
     },
     {
@@ -191,7 +191,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu13.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu13.jpg"
         ]
     },
     {
@@ -206,7 +206,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu14.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu14.jpg"
         ]
     },
     {
@@ -221,7 +221,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu15.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu15.jpg"
         ]
     },
     {
@@ -236,7 +236,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu16.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu16.jpg"
         ]
     },
     {
@@ -251,7 +251,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu17.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu17.jpg"
         ]
     },
     {
@@ -266,7 +266,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu18.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu18.jpg"
         ]
     },
     {
@@ -281,7 +281,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu19.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu19.jpg"
         ]
     },
     {
@@ -296,7 +296,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu20.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu20.jpg"
         ]
     },
     {
@@ -311,7 +311,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu21.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu21.jpg"
         ]
     },
     {
@@ -326,7 +326,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu22.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu22.jpg"
         ]
     },
     {
@@ -341,7 +341,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu23.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu23.jpg"
         ]
     },
     {
@@ -356,7 +356,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu24.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu24.jpg"
         ]
     },
     {
@@ -371,7 +371,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu25.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu25.jpg"
         ]
     },
     {
@@ -386,7 +386,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu26.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu26.jpg"
         ]
     },
     {
@@ -401,7 +401,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu27.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu27.jpg"
         ]
     },
     {
@@ -416,7 +416,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu28.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu28.jpg"
         ]
     },
     {
@@ -431,7 +431,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu29.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu29.jpg"
         ]
     },
     {
@@ -446,7 +446,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu30.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu30.jpg"
         ]
     },
     {
@@ -461,7 +461,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu31.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu31.jpg"
         ]
     },
     {
@@ -476,7 +476,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu32.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu32.jpg"
         ]
     },
     {
@@ -491,7 +491,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu33.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu33.jpg"
         ]
     },
     {
@@ -506,7 +506,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu34.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu34.jpg"
         ]
     },
     {
@@ -521,7 +521,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu35.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu35.jpg"
         ]
     },
     {
@@ -536,7 +536,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu36.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu36.jpg"
         ]
     },
     {
@@ -551,7 +551,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu37.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu37.jpg"
         ]
     },
     {
@@ -566,7 +566,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu38.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu38.jpg"
         ]
     },
     {
@@ -581,7 +581,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu39.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu39.jpg"
         ]
     },
     {
@@ -596,7 +596,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu40.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu40.jpg"
         ]
     },
     {
@@ -611,7 +611,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu41.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu41.jpg"
         ]
     },
     {
@@ -626,7 +626,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu42.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu42.jpg"
         ]
     },
     {
@@ -641,7 +641,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu44.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu44.jpg"
         ]
     },
     {
@@ -656,7 +656,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu45.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu45.jpg"
         ]
     },
     {
@@ -671,7 +671,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu46.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu46.jpg"
         ]
     },
     {
@@ -686,7 +686,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu47.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu47.jpg"
         ]
     },
     {
@@ -701,7 +701,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu48.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu48.jpg"
         ]
     },
     {
@@ -716,7 +716,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu49.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu49.jpg"
         ]
     },
     {
@@ -731,7 +731,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu50.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu50.jpg"
         ]
     },
     {
@@ -746,7 +746,7 @@
             }
         ],
         "images": [
-            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu51.jpg"
+            "/data1/lj/dataset/baidu/baidu_origin/baidu51.jpg"
         ]
     }
 ]
