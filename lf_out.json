@@ -1,0 +1,752 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 5, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu1.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 5, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu2.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu3.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu4.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu5.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu6.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu7.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu8.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu9.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu10.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu11.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu12.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 7, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu13.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu14.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu15.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu16.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu17.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu18.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu19.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu20.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu21.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu22.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 6, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu23.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 5, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu24.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu25.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu26.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu27.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu28.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu29.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu30.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu31.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu32.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu33.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu34.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu35.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu36.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 1}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu37.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu38.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu39.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu40.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu41.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu42.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 6, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu44.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu45.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu46.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu47.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 3, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu48.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 2, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu49.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 1, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu50.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路和右转专用道，在该路口前的车道数分别是多少？以这种格式输出{'down-up': xx, 'down-right': yy}，其中down-up代表主路道路，down-right代表右转专用道，xx、yy代表车道数。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'down-up': 4, 'down-right': 0}"
+            }
+        ],
+        "images": [
+            "/home/arc/lanjie/LLaMA-Factory/data/lf/baidu51.jpg"
+        ]
+    }
+]
