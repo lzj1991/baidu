@@ -1,0 +1,752 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 5, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu1.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 5, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu2.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu3.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu4.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu5.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu6.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu7.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu8.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu9.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu10.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu11.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu12.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 7, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu13.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu14.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu15.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu16.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu17.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu18.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu19.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu20.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu21.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu22.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 6, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu23.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 5, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu24.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu25.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu26.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu27.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu28.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu29.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu30.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu31.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu32.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu33.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu34.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu35.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu36.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu37.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu38.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu39.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu40.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu41.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu42.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 6, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu44.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu45.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu46.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu47.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 3, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu48.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 2, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu49.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 1, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu50.jpg"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>在交通规则为右侧通行的背景下，图片中从下向上行驶的主路道路，有几条车道可以进入路口？参考'{\"count\": xx, \"confidence\": yy}'这种json格式的字符串输出你推理的结果，其中count代表可以进入路口的车道数，confidence代表你的答案的置信度。"
+            },
+            {
+                "from": "gpt",
+                "value": "{'count': 4, 'confidence': 1.0}"
+            }
+        ],
+        "images": [
+            "/data1/lj/dataset/baidu/baidu_origin/baidu51.jpg"
+        ]
+    }
+]
